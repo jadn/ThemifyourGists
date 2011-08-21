@@ -1,6 +1,6 @@
 /* Text ----------------------------------------------------------------------*/
-.gist-file, .gist-data, .gist-syntax .o, .gist-syntax .ow,
-.gist-syntax .gs, .gist-syntax .ge {
+.gist-file, .gist-data, .gist-syntax .o, .gist-syntax .ow, .gist-syntax .gs,
+.gist-syntax .ge {
 color:#d3d7cf !important
 }
 .gist-data {
@@ -51,29 +51,22 @@ color: #888a85 !important
 .gist-syntax .s, .gist-syntax .sb, .gist-syntax .sc, .gist-syntax .sd,
 .gist-syntax .s2, .gist-syntax .se, .gist-syntax .sh, .gist-syntax .si,
 .gist-syntax .sx, .gist-syntax .s1, .gist-syntax .m, .gist-syntax .mi,
-.gist-syntax .il, .gist-syntax .mf, .gist-syntax .mh,
-.gist-syntax .mo {
+.gist-syntax .il, .gist-syntax .mf, .gist-syntax .mh, .gist-syntax .mo {
 color: #edd400 !important
 }
 
-/* String --------------------------------------------------------------------*/
-
 /* Special Character ---------------------------------------------------------*/
-.gist-syntax .nv, .gist-syntax .vc, .gist-syntax .vg,
-.gist-syntax .vi {
+.gist-syntax .nv, .gist-syntax .vc, .gist-syntax .vg, .gist-syntax .vi {
 color: #ce5c00 !important
 }
 
 /* Special Constant ----------------------------------------------------------*/
-.gist-syntax .kc, .gist-syntax .sr, .gist-syntax .ss,
-.gist-syntax .no, .gist-syntax .nb, .gist-syntax .bp, .gist-syntax .ni,
-.gist-syntax .nn, .gist-syntax .nt {
+.gist-syntax .kc, .gist-syntax .sr, .gist-syntax .ss {
 color: #ce5c00 !important
 }
 
 /* Identifier ----------------------------------------------------------------*/
-.gist-syntax .nc, .gist-syntax .ne, .gist-syntax .nf,
-.gist-syntax .na {
+.gist-syntax .nc, .gist-syntax .ne, .gist-syntax .nf, .gist-syntax .na {
 color: #729fcf !important
 }
 
@@ -88,7 +81,8 @@ color: #8ae234 !important
 }
 
 /* Preprocessor --------------------------------------------------------------*/
-.gist-syntax .go, .gist-syntax .gp {
+.gist-syntax .no, .gist-syntax .nb, .gist-syntax .bp, .gist-syntax .ni,
+.gist-syntax .nn, .gist-syntax .nt, .gist-syntax .go, .gist-syntax .gp {
 color: #ad7fa8 !important
 }
 
