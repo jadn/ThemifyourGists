@@ -4,9 +4,19 @@
 >-Izzy
 
 ##Bored of the usual syntax highlighting theme of embedded Gists?
-We have got some alternative solutions for your embedded Gists. Currently there is only 1 other theme:
--Oblivion
+We have got some alternative solutions for your embedded Gists. Currently there are **7** themes:
+
++	Oblivion
++	black 'n' white* 
++	fruity*
++	monokai*
++	native*
++	pastie*
++	tango*
+
 But as always you are free to contribute to/fork the project. Any help is appreciated!
+
+*borrowed from [Pygment](http://pygments.org/ "")
 
 ##Getting started
 Just put this script tag at the end of the body:
