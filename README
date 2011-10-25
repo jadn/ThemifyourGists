@@ -1,9 +1,0 @@
-This is my first Github experience, so bear with me.
-
-What I am hoping to create is CSS stylesheets that override the colors of
-embedded Gists. Primarily, I wish to port existing GtkSourceView themes and Vim
-themes to the Gist embed.css stucture.
-
-Any help is appreciated, as I learn how to use Github. :)
-
--Izzy
