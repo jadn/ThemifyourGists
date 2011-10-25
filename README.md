@@ -10,6 +10,7 @@ But as always you are free to contribute to/fork the project. Any help is apprec
 
 ##Getting started
 Just put this script tag at the end of the body:
+
 	<script type="text/javascript">
 	var newthemeurl = "raw.github.com/iglvzx/Gist-Embed-CSS-Themes/master/Gist.Oblivion.css",
     	giststandardtheme, newgistheme;
