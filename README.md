@@ -1,7 +1,9 @@
+#Gist-Embed-CSS-Themes
 ##Bored of the usual syntax highlighting theme of embedded Gists?
 We have got some alternative solutions for your embedded Gists. Currently there is only 1 other theme:
 -Oblivion
 But as always you are free to contribute to/fork the project. Any help is appreciated!
+
 ##Getting started
 Just put this script tag at the end of the body:
 	<script type="text/javascript">
@@ -30,6 +32,7 @@ Now it should look like this:
 	embeddedGistheme("yourURL.com/mygistheme.css");
 
 **Ta-da!** It's all done.
+
 ##In the future
 The *founder* of this project, Izzy, primarily wishes to port existing GtkSourceView themes and Vim themes to the Gist embed.css stucture.
 
