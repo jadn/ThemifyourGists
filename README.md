@@ -1,5 +1,5 @@
 #Gist-Embed-CSS-Themes
->What I am hoping to create are stylesheets overriding the colors of embedded Gists.
+>What I am hoping to create are stylesheets overriding the colors of embedded Gists. So the highlighted code matches perfectly with your blog/website.
 
 >-Izzy
 
@@ -22,7 +22,7 @@ But as always you are free to contribute to/fork the project. Any help is apprec
 Just put this script tag at the end of the body:
 
 	<script type="text/javascript">
-	var newthemeurl = "raw.github.com/iglvzx/Gist-Embed-CSS-Themes/master/Gist.Oblivion.css",
+	var newthemeurl = "raw.github.com/GeekyRobo/ThemifyourGists/master/themes/Gist.Oblivion.css",
     	giststandardtheme, newgistheme;
 
 	function embeddedGistheme(newthemeurl) {
