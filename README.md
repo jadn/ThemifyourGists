@@ -55,3 +55,6 @@ The *founder* of this project, Izzy, primarily wishes to port existing GtkSource
 Myself would like to have only **ONE** JavaScript file instead of this one and the one served from *Github->Embed*. Because presently it is rather a hack than a serious solution.
 
 -Geeky Robo
+
+## License
+MIT: [geeky.mit-license.org](http://geeky.mit-license.org "")
