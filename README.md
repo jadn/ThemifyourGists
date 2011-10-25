@@ -26,6 +26,7 @@ Just put this script tag at the end of the body:
 And you are ready to go.. oh, wait. Maybe you would like to use another theme then Oblivion? That's a piece of cake, replace your URL *"yourURL.com/mygistheme.css"* with *newthemeurl* and delete *newthemeurl = raw.github[…],*!
 
 Now it should look like this:
+	
 	var giststandardtheme, newgistheme;
 
 	function embeddedGistheme(newthemeurl) {
