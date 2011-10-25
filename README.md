@@ -42,4 +42,6 @@ Now it should look like this:
 ##In the future
 The *founder* of this project, Izzy, primarily wishes to port existing GtkSourceView themes and Vim themes to the Gist embed.css stucture.
 
+Myself would like to have only **ONE** JavaScript file instead of this one and the one served from *Github->Embed*. Because presently it is rather a hack than a serious solution.
+
 -Geeky Robo
