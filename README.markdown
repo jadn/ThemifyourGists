@@ -1,4 +1,8 @@
 #Gist-Embed-CSS-Themes
+>What I am hoping to create is CSS stylesheets that override the colors of embedded Gists.
+
+>-Izzy
+
 ##Bored of the usual syntax highlighting theme of embedded Gists?
 We have got some alternative solutions for your embedded Gists. Currently there is only 1 other theme:
 -Oblivion
